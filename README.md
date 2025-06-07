@@ -37,4 +37,4 @@ Mini_Project/
 
 Clone the repository:
    ```bash
-   git clone https://github.com/dukarevaishnavi/Create_An_Annual_Report_Portal_For_Institues_Project.git
+https://github.com/dukarevaishnavi/Create_An_Annual_Report_Portal_For_Institues_Project
